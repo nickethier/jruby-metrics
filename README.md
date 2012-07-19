@@ -1,6 +1,12 @@
 Jruby-Metrics
 =============
 
-Jruby wrapper for Yammer's Java Metrics library found [here](http://metrics.codahale.com/)
+Jruby wrapper for Codehale's Java Metrics library found [here](http://metrics.codahale.com/)
+
+TODO
+====
+
+Gauges do not work
+
 
 
