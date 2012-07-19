@@ -7,6 +7,6 @@ TODO
 ====
 
 Gauges do not work
-
+Other reporting options (http, graphite)
 
 
